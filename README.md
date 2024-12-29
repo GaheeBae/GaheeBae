@@ -11,10 +11,12 @@
 </p>
 
 <p align="center">
-  <a href = "https://velog.io/@baegahee0503" target="_blank" rel="opener"  >
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
+  <a href="https://velog.io/@baegahee0503" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>  
-  <img title="baegaee0503@gmail.com" src="https://img.shields.io/badge/baegaee0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:baegaee0503@gmail.com">
+    <img src="https://img.shields.io/badge/baegaee0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
