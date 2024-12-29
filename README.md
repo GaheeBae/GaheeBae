@@ -14,7 +14,7 @@
   <a href = "https://velog.io/@baegahee0503" target="_blank" rel="opener"  >
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
   </a>  
-  <img title="baegaee0503@gmail.com" src="https://img.shields.io/badge/devjoon@nate.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img title="baegaee0503@gmail.com" src="https://img.shields.io/badge/baegaee0503@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
 <p align="center">
