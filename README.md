@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFF0&height=200&section=header&text=Gahee's%20World!%20💫&fontColor=gray&fontSize=60" />
 
-<!--
-**GaheeBae/GaheeBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,c,cs,unity" alt="My Skills" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaheeBae&show_icons=true&bg_color=000000&title_color=f5deb3&text_color=f5d4a0&icon_color=f5c77a&border_color=000000" alt="My GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.giphy.com/rfucLjSU9RiAYsSgj8.webp" width="200" style="margin: 10px;" />
+  <img src="https://i.giphy.com/rfucLjSU9RiAYsSgj8.webp" width="200" style="transform: scaleX(-1);" />
+</p>
