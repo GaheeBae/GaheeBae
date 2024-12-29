@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaheeBae&layout=compact&bg_color=000000&title_color=f5deb3&text_color=f5d4a0&border_color=000000" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaheeBae&show_icons=true&bg_color=000000&title_color=f5deb3&text_color=f5d4a0&icon_color=f5c77a&border_color=000000" alt="My GitHub Stats" />
 </p>
 
